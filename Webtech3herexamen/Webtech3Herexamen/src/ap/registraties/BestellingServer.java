@@ -16,7 +16,6 @@ public class BestellingServer {
 
             // Attach the sample application.
             component.getDefaultHost().attach("/bestellingen",BestellingenResource.class);
-            component.getDefaultHost().attach("/bestellingen", BestellingResource.class);
             component.getDefaultHost().attach("/bestelling/{bestelling_id}", BestellingResource.class);
 
 

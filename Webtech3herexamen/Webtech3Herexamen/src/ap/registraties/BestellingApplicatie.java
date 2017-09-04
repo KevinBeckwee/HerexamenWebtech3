@@ -13,7 +13,6 @@ public class BestellingApplicatie extends Application {
 
 
 	       router.attach("/bestellingen", BestellingenResource.class);
-	       router.attach("/bestelling", BestellingResource.class);
 	       router.attach("/bestelling/{bestelling_id}", BestellingResource.class);
 
 	       return router;

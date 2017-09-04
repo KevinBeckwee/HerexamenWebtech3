@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e15e255-40f3-4548-955b-5dbfe1071ec2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Webtech3Herexamen/src/ap/registraties/BestellingenResource.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Webtech3Herexamen/ap/registraties/BestellingApplicatie.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Webtech3Herexamen/ap/registraties/BestellingServer.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Webtech3Herexamen/ap/registraties/BestellingResource.class" afterPath="$PROJECT_DIR$/out/production/Webtech3Herexamen/ap/registraties/BestellingResource.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Webtech3Herexamen/ap/xml/XMLParser.class" afterPath="$PROJECT_DIR$/out/production/Webtech3Herexamen/ap/xml/XMLParser.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Webtech3Herexamen/ap/registraties/BestellingClient.class" afterPath="$PROJECT_DIR$/out/production/Webtech3Herexamen/ap/registraties/BestellingClient.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Webtech3Herexamen/registraties.xml" afterPath="$PROJECT_DIR$/Webtech3Herexamen/registraties.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Webtech3Herexamen/src/ap/registraties/BestellingApplicatie.java" afterPath="$PROJECT_DIR$/Webtech3Herexamen/src/ap/registraties/BestellingApplicatie.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Webtech3Herexamen/src/ap/registraties/BestellingClient.java" afterPath="$PROJECT_DIR$/Webtech3Herexamen/src/ap/registraties/BestellingClient.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Webtech3Herexamen/src/ap/registraties/BestellingResource.java" afterPath="$PROJECT_DIR$/Webtech3Herexamen/src/ap/registraties/BestellingResource.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Webtech3Herexamen/src/ap/registraties/BestellingServer.java" afterPath="$PROJECT_DIR$/Webtech3Herexamen/src/ap/registraties/BestellingServer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Webtech3Herexamen/src/ap/xml/XMLParser.java" afterPath="$PROJECT_DIR$/Webtech3Herexamen/src/ap/xml/XMLParser.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/untitled2.iws" afterPath="$PROJECT_DIR$/untitled2.iws" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,7 +18,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BestellingApplicatie.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="BestellingApplicatie.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Webtech3Herexamen/src/ap/registraties/BestellingApplicatie.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
@@ -38,7 +31,7 @@
       <file leaf-file-name="XMLParser.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Webtech3Herexamen/src/ap/xml/XMLParser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="590">
+            <state relative-caret-position="1253">
               <caret line="121" column="41" lean-forward="false" selection-start-line="121" selection-start-column="41" selection-end-line="121" selection-end-column="41" />
               <folding />
             </state>
@@ -48,11 +41,9 @@
       <file leaf-file-name="registraties.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Webtech3Herexamen/registraties.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding>
-                <marker date="1504530255691" expanded="true" signature="404:418" ph="..." />
-              </folding>
+            <state relative-caret-position="119">
+              <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -79,12 +70,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BestellingClient.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BestellingClient.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Webtech3Herexamen/src/ap/registraties/BestellingClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="92" lean-forward="false" selection-start-line="7" selection-start-column="92" selection-end-line="7" selection-end-column="92" />
-              <folding />
+            <state relative-caret-position="425">
+              <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -122,13 +115,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Webtech3Herexamen/src/ap/registraties/RegistratieResource.java" />
-        <option value="$PROJECT_DIR$/Webtech3Herexamen/registraties.xml" />
-        <option value="$PROJECT_DIR$/Webtech3Herexamen/src/ap/registraties/BestellingServer.java" />
-        <option value="$PROJECT_DIR$/Webtech3Herexamen/src/ap/registraties/BestellingApplicatie.java" />
         <option value="$PROJECT_DIR$/Webtech3Herexamen/src/ap/xml/XMLParser.java" />
         <option value="$PROJECT_DIR$/Webtech3Herexamen/src/ap/registraties/BestellingenResource.java" />
         <option value="$PROJECT_DIR$/Webtech3Herexamen/src/ap/registraties/BestellingResource.java" />
         <option value="$PROJECT_DIR$/Webtech3Herexamen/src/ap/registraties/BestellingClient.java" />
+        <option value="$PROJECT_DIR$/Webtech3Herexamen/registraties.xml" />
+        <option value="$PROJECT_DIR$/Webtech3Herexamen/src/ap/registraties/BestellingServer.java" />
+        <option value="$PROJECT_DIR$/Webtech3Herexamen/src/ap/registraties/BestellingApplicatie.java" />
       </list>
     </option>
   </component>
@@ -138,9 +131,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-332" />
-    <option name="y" value="127" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="243" />
+    <option name="y" value="38" />
     <option name="width" value="1612" />
     <option name="height" value="796" />
   </component>
@@ -356,8 +349,8 @@
     </list>
     <recent_temporary>
       <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.BestellingClient" />
-        <item index="1" class="java.lang.String" itemvalue="Application.BestellingServer" />
+        <item index="0" class="java.lang.String" itemvalue="Application.BestellingServer" />
+        <item index="1" class="java.lang.String" itemvalue="Application.BestellingClient" />
       </list>
     </recent_temporary>
   </component>
@@ -372,15 +365,16 @@
       <option name="presentableId" value="Default" />
       <updated>1504526598746</updated>
       <workItem from="1504526608842" duration="1863000" />
-      <workItem from="1504528698743" duration="1689000" />
+      <workItem from="1504528698743" duration="2729000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3552000" />
+    <option name="totallyTimeSpent" value="4592000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -394,13 +388,13 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1554054" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25321338" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -440,9 +434,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="15" />
-          <folding>
-            <marker date="1504530255691" expanded="true" signature="404:418" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -458,7 +450,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -490,35 +484,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Webtech3Herexamen/registraties.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="119">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Webtech3Herexamen/src/ap/registraties/BestellingClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
           <folding>
-            <marker date="1504530255691" expanded="true" signature="404:418" ph="..." />
+            <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Webtech3Herexamen/src/ap/registraties/BestellingApplicatie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="14" column="70" lean-forward="false" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Webtech3Herexamen/src/ap/registraties/BestellingServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="90" lean-forward="false" selection-start-line="17" selection-start-column="90" selection-end-line="17" selection-end-column="90" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Webtech3Herexamen/src/ap/xml/XMLParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="590">
-          <caret line="121" column="41" lean-forward="false" selection-start-line="121" selection-start-column="41" selection-end-line="121" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -542,10 +520,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Webtech3Herexamen/src/ap/registraties/BestellingClient.java">
+    <entry file="file://$PROJECT_DIR$/Webtech3Herexamen/src/ap/registraties/BestellingServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="92" lean-forward="false" selection-start-line="7" selection-start-column="92" selection-end-line="7" selection-end-column="92" />
+        <state relative-caret-position="272">
+          <caret line="17" column="90" lean-forward="false" selection-start-line="17" selection-start-column="90" selection-end-line="17" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Webtech3Herexamen/src/ap/xml/XMLParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1253">
+          <caret line="121" column="41" lean-forward="false" selection-start-line="121" selection-start-column="41" selection-end-line="121" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Webtech3Herexamen/src/ap/registraties/BestellingApplicatie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="70" lean-forward="false" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
           <folding />
         </state>
       </provider>
