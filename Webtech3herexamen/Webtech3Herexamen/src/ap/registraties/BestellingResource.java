@@ -8,17 +8,17 @@ import org.restlet.resource.ServerResource;
 public class BestellingResource extends ServerResource {
 	
 	@Get("html")
-	public String getRegistratie() {
+	public String getBestelling() {
 		String bestelling_id = getAttribute("bestelling_id");
 		XMLParser parser = new XMLParser();
-		return parser.getRegistratie(bestelling_id);
+		return parser.getBestelling(bestelling_id);
 	}
 	
 	/*@Post("txt")
-	public String addRunner(String bestelling) {
-		String registratie_id = getAttribute("registratie_id");
+	public String addBestelling(String bestelling) {
+		String bestelling_id = getAttribute("bestelling_id");
 		XMLParser parser = new XMLParser();
-		return parser.addRunner(registratie_id, bestelling);
+		return parser.addBestelling(bestelling_id, bestelling);
 	}*/
 
 }

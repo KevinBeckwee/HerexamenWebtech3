@@ -15,7 +15,8 @@ public class BestellingServer {
             component.getServers().add(Protocol.HTTP, 8181);
 
             // Attach the sample application.
-            component.getDefaultHost().attach("/bestelling", BestellingResource.class);
+            component.getDefaultHost().attach("/bestellingen",BestellingenResource.class);
+            component.getDefaultHost().attach("/bestellingen", BestellingResource.class);
             component.getDefaultHost().attach("/bestelling/{bestelling_id}", BestellingResource.class);
 
 
