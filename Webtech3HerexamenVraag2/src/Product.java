@@ -4,7 +4,7 @@ public class Product {
     private String naam;
     private String producent;
     private int prijs;
-    public static ArrayList<Product> productList;
+    public static ArrayList<Product> productList = new ArrayList<>();
 
     public Product(String naam, String producent, int prijs) {
         this.naam = naam;
@@ -34,5 +34,22 @@ public class Product {
 
     public void setPrijs(int prijs) {
         this.prijs = prijs;
+    }
+
+    @Override
+    public String toString() {
+        return "Product{" +
+                "naam='" + naam + '\'' +
+                ", producent='" + producent + '\'' +
+                ", prijs=" + prijs +
+                '}';
+    }
+
+    public String toJson() {
+        return "Registratie{" +
+                "\"naam\" :'" + naam + '\'' +
+                ", \"producent\" :'" + producent + '\'' +
+                ", \"prijs\" :'" + prijs + '\'' +
+                '}';
     }
 }
