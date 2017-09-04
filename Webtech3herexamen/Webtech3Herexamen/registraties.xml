@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<bestellingen>
+	<bestelling id="1" klantNaam ="Patje Boemans" adres="bootjeLaan 5" datum="15/08/2017" produktNaam="nukes" hoeveelheid="5000">
+		<uri>bestelling/1</uri>
+	</bestelling>
+</bestellingen>
