@@ -1,0 +1,12 @@
+{
+  "Products" :   [
+    {
+      "naam" : "Gundam Kit",
+      "producent" : "Bandai",
+      "prijs" : 30
+    }
+
+
+  ]
+
+}
